@@ -18,6 +18,8 @@ Slack用のアプリをインストールしたあと、チャンネルで「/gi
 
 https://slack.com/intl/ja-jp/help/articles/232289568-GitHub-と-Slack-を連携させる
 
+![](/images/20211013/1.png)
+
 通知のカスタマイズは以下に詳しく書いてあります
 （コメントやブランチ操作なども通知したい場合など）
 
@@ -33,12 +35,16 @@ GithubのOrganizationやTeamのSetting->Scheduled remindersから設定します
 https://docs.github.com/ja/organizations/managing-organization-settings/managing-scheduled-reminders-for-your-organization
 https://docs.github.com/ja/organizations/organizing-members-into-teams/managing-scheduled-reminders-for-your-team
 
+![](/images/20211013/2.png)
+
 # SlackのAppで通知する
 
 SlackのAppで個人宛に通知する方法で、リアルタイムとリマインダーの両方が設定できます
 GitHubのプロフィール->Setting->Scheduled remindersから設定します
 
 https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/managing-your-scheduled-reminders
+
+![](/images/20211013/3.png)
 
 チャンネルへのリマインダーと違い、通知するリポジトリが選択できなかったり
 Draftでも通知されるなどの違いがあります

@@ -48,5 +48,3 @@ https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-gith
 
 チャンネルへのリマインダーと違い、通知するリポジトリが選択できなかったり
 Draftでも通知されるなどの違いがあります
-
-※その他にも設定できる項目に違いがあります

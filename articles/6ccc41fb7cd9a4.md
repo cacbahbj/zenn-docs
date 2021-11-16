@@ -1,7 +1,7 @@
 ---
 title: "Infra Study 2nd #7「SREと組織」"
 emoji: "🐡"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["勉強会", "sre"]
 published: true
 ---
@@ -72,6 +72,9 @@ https://engineering.mercari.com/blog/entry/2020-07-16-083548/
 - 会議のベストプラクティス
 - SRE組織構築の際の重要なポイント
   - ロール
+    - Pure SRE -> Embedded SREへ
   - 責任
     - RACI
+    - R（実行責任者） -> A,C（説明責任者、相談先）へ
   - Mindset
+    - まずはAbsent（後回し）を解消、Reactive（直近）やProactive（潜在）に
